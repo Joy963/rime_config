@@ -1,0 +1,186 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	236
+#@/user_id	2e42a5ca-ae00-42ae-895b-bd8dc3014a55
+ba 	吧	c=2 d=1.9218 t=236
+ban 	版	c=1 d=0.644036 t=236
+bao bei 	寶貝	c=1 d=0.343009 t=236
+bao jing 	報警	c=1 d=0.492648 t=236
+bei you 	北郵	c=1 d=0.923116 t=236
+bian ji 	編輯	c=1 d=0.985112 t=236
+bian ji qi 	編輯器	c=1 d=1 t=236
+biao 	表	c=3 d=1.66958 t=236
+bing 	並	c=2 d=1.11317 t=236
+bing fa 	併發	c=0 d=0.0463013 t=236
+bing fa liang 	併發量	c=1 d=0.465334 t=236
+bo tou 	鉢頭	c=1 d=0.527292 t=236
+bu 	不	c=2 d=1.30824 t=236
+bu chi 	不吃	c=1 d=0.960789 t=236
+bu gei 	不給	c=1 d=0.843665 t=236
+bu guo 	不過	c=1 d=0.759572 t=236
+bu huo 	捕獲	c=1 d=0.565525 t=236
+bu shi 	不是	c=1 d=0.895834 t=236
+bu ting hua 	不聽話	c=1 d=0.680451 t=236
+bu xing 	不行	c=1 d=0.856415 t=236
+chi fan 	吃飯	c=1 d=0.970446 t=236
+chong qi 	重啓	c=1 d=0.537944 t=236
+chong shi 	重試	c=1 d=0.57695 t=236
+chong tu 	衝突	c=1 d=0.494109 t=236
+chong xin 	重新	c=1 d=0.380983 t=236
+chu cuo 	出錯	c=3 d=1.21285 t=236
+chu li 	處理	c=4 d=1.79931 t=236
+chu yi 	初一	c=1 d=0.88692 t=236
+ci 	次	c=1 d=0.579842 t=236
+cong 	從	c=1 d=0.436049 t=236
+cuo wu 	錯誤	c=1 d=0.390257 t=236
+cuo wu chu li 	錯誤處理	c=1 d=0.509156 t=236
+dao le 	到了	c=1 d=0.937067 t=236
+de 	的	c=9 d=5.04006 t=236
+dian 	點	c=1 d=0.904837 t=236
+ding shi 	定時	c=1 d=0.373439 t=236
+dou 	都	c=1 d=0.748264 t=236
+dou you 	都有	c=1 d=0.802519 t=236
+du qu 	讀取	c=1 d=0.440432 t=236
+duan 	斷	c=1 d=0.771052 t=236
+en 	嗯	c=1 d=0.852144 t=236
+en 	恩	c=5 d=1.78367 t=236
+fa 	發	c=0 d=0.0410656 t=236
+fa bao jing 	發報警	c=1 d=0.412714 t=236
+fa song 	發送	c=1 d=0.449329 t=236
+fang qi 	放棄	c=1 d=0.585669 t=236
+fang shi 	方式	c=1 d=0.687289 t=236
+fen zhong 	分鐘	c=1 d=0.429557 t=236
+feng zhi 	峯值	c=1 d=0.467666 t=236
+gan sha 	幹啥	c=1 d=0.67032 t=236
+gang 	剛	c=1 d=0.810584 t=236
+ge 	個	c=3 d=1.82934 t=236
+gen ju 	根據	c=1 d=0.615697 t=236
+geng xin 	更新	c=1 d=0.559898 t=236
+gong 	共	c=1 d=0.470011 t=236
+gong ji jin 	公積金	c=1 d=0.744532 t=236
+gong neng 	功能	c=2 d=0.829608 t=236
+gong zuo 	工作	c=1 d=0.316637 t=236
+gua diao 	掛掉	c=1 d=0.532592 t=236
+guan jian dian 	關鍵點	c=1 d=0.386741 t=236
+guo 	過	c=2 d=1.59524 t=236
+guo wan 	過完	c=1 d=0.882497 t=236
+guo zhi yi 	郭志毅	c=3 d=1.51951 t=236
+hao 	好	c=1 d=0.932394 t=236
+hao chi 	好吃	c=1 d=0.355226 t=236
+hao de 	好的	c=1 d=0.980199 t=236
+heng xian 	橫線	c=2 d=1.01071 t=236
+hou 	後	c=4 d=1.96561 t=236
+hou qi 	後期	c=1 d=0.609571 t=236
+hu kou 	戶口	c=1 d=0.786628 t=236
+hui shou 	回收	c=1 d=0.543351 t=236
+huo 	或	c=1 d=0.519442 t=236
+huo 	活	c=1 d=0.67368 t=236
+huo qu 	獲取	c=1 d=0.733447 t=236
+huo zhe 	或者	c=1 d=0.631284 t=236
+ji lu 	記錄	c=0 d=0.0733447 t=236
+ji lu shu 	記錄數	c=1 d=0.737123 t=236
+ji tian 	幾天	c=0 d=0.088692 t=236
+jian ce 	檢測	c=1 d=0.496585 t=236
+jian kong 	監控	c=3 d=1.83502 t=236
+jiang 	將	c=1 d=0.551563 t=236
+jiao 	交	c=1 d=0.752014 t=236
+jiao ben 	腳本	c=4 d=1.7203 t=236
+jie kou 	接口	c=1 d=0.38868 t=236
+jin nian 	今年	c=1 d=0.869358 t=236
+jin yong 	禁用	c=1 d=0.463013 t=236
+ke 	可	c=1 d=0.612626 t=236
+kuo zhan 	擴展	c=1 d=0.621885 t=236
+le 	了	c=3 d=2.3565 t=236
+liang 	量	c=0 d=0.0463013 t=236
+liu cheng 	流程	c=1 d=0.384812 t=236
+lun xun 	輪詢	c=4 d=1.90313 t=236
+man zu 	滿足	c=1 d=0.597501 t=236
+mei 	每	c=1 d=0.427415 t=236
+mei 	沒	c=1 d=0.915648 t=236
+mei ge 	每個	c=1 d=0.477114 t=236
+mei ji tian 	沒幾天	c=1 d=0.891366 t=236
+mou ge 	某個	c=1 d=0.546074 t=236
+mu qian 	目前	c=1 d=0.718924 t=236
+na 	那	c=1 d=0.790571 t=236
+na jiu 	那就	c=1 d=0.965605 t=236
+neng gou 	能夠	c=1 d=0.594521 t=236
+ni 	你	c=1 d=0.843531 t=236
+ni jia 	你家	c=1 d=0.878095 t=236
+ni xian lai 	你先來	c=1 d=0.865022 t=236
+ni xian zai 	你現在	c=1 d=0.909373 t=236
+nong 	弄	c=2 d=1.68316 t=236
+nong cun 	農村	c=1 d=0.782705 t=236
+pei zhi 	配置	c=2 d=1.36355 t=236
+pei zhi de 	配置的	c=1 d=0.71177 t=236
+qi dong 	啓動	c=1 d=0.637628 t=236
+qi ta 	其他	c=1 d=0.522046 t=236
+qi yong 	啓用	c=1 d=0.625002 t=236
+qian yi 	遷移	c=1 d=0.327915 t=236
+qie huan 	切換	c=1 d=0.995012 t=236
+que ding 	確定	c=1 d=0.955997 t=236
+re 	熱	c=1 d=0.348192 t=236
+shang bao 	上報	c=1 d=0.398519 t=236
+shang xian 	上線	c=1 d=0.318224 t=236
+she bao 	社保	c=1 d=0.740818 t=236
+shi 	是	c=1 d=0.798516 t=236
+shi bu shi 	是不是	c=1 d=0.683861 t=236
+shi xian 	實現	c=2 d=0.819835 t=236
+shou bu dao 	收不到	c=1 d=0.554327 t=236
+shou dao 	收到	c=1 d=0.396531 t=236
+shu 	數	c=0 d=0.0733447 t=236
+shuai 	帥	c=1 d=0.364219 t=236
+suo you 	所有	c=2 d=1.40474 t=236
+suo you de 	所有的	c=1 d=0.56836 t=236
+tong ji 	統計	c=1 d=0.444858 t=236
+wai di 	外地	c=1 d=0.778801 t=236
+wang yi 	網易	c=1 d=0.311923 t=236
+wen 	問	c=1 d=0.814647 t=236
+wen jian 	文件	c=1 d=0.704688 t=236
+wen ti 	問題	c=1 d=0.529935 t=236
+wo 	我	c=1 d=0.806541 t=236
+wu dao kou 	五道口	c=1 d=0.927743 t=236
+xi jie 	細節	c=1 d=0.321422 t=236
+xian lai 	先來	c=0 d=0.0860708 t=236
+xian you 	現有	c=1 d=0.588605 t=236
+xian zai 	現在	c=0 d=0.0904837 t=236
+xiang 	向	c=1 d=0.402524 t=236
+xiang guan 	相關	c=2 d=0.649379 t=236
+xiao xi 	消息	c=1 d=0.442639 t=236
+xie 	寫	c=5 d=2.13959 t=236
+xie cheng 	協程	c=2 d=1.08945 t=236
+xie ru 	寫入	c=1 d=0.66034 t=236
+xing 	行	c=4 d=1.90476 t=236
+xu 	須	c=1 d=0.562705 t=236
+xu qiu 	需求	c=1 d=0.606531 t=236
+xu yao 	需要	c=1 d=0.618783 t=236
+xue xiao 	學校	c=1 d=0.918512 t=236
+yao dian 	要點	c=1 d=0.331211 t=236
+yi 	以	c=1 d=0.481909 t=236
+yi chang 	異常	c=1 d=0.571209 t=236
+yi ci 	一次	c=1 d=0.433874 t=236
+yi ge 	一個	c=2 d=1.26896 t=236
+yin yue 	音樂	c=1 d=0.315058 t=236
+ying gai 	應該	c=1 d=0.794534 t=236
+yong 	用	c=1 d=0.489192 t=236
+yong bo 	永博	c=1 d=0.324652 t=236
+you 	有	c=1 d=0.767206 t=236
+you jian 	郵件	c=2 d=0.868627 t=236
+yuan yin 	原因	c=1 d=0.524663 t=236
+yun 	雲	c=1 d=0.313486 t=236
+yun xing 	運行	c=2 d=1.12244 t=236
+za 	咋	c=1 d=0.346456 t=236
+zai 	在	c=3 d=1.6854 t=236
+zai shuo 	再說	c=1 d=0.941765 t=236
+zan shi 	暫時	c=1 d=0.460704 t=236
+ze 	則	c=1 d=0.574072 t=236
+zhe ge 	這個	c=1 d=0.831104 t=236
+zheng li 	整理	c=1 d=0.323033 t=236
+zhi 	值	c=1 d=0.486752 t=236
+zhi yu 	治癒	c=1 d=0.511709 t=236
+zhong 	中	c=5 d=2.36674 t=236
+zhong jian 	中間	c=1 d=0.763379 t=236
+zhong ying 	中英	c=1 d=0.99005 t=236
+zhu 	住	c=1 d=0.913931 t=236
+zuo 	做	c=1 d=0.491644 t=236
